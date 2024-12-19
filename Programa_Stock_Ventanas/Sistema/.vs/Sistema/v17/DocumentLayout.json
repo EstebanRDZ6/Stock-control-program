@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|c:\\users\\tutor\\onedrive\\desktop\\programa santi\\sistema\\sistema.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71FDFFF-86D8-4FEC-ACAE-F692BAA62782}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.datos\\articulosd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71FDFFF-86D8-4FEC-ACAE-F692BAA62782}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\articulosd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|c:\\users\\tutor\\onedrive\\desktop\\programa santi\\sistema\\sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B613BA5-7782-4117-BD6A-8D34BD7EFA81}|Sistema.Negocio\\Sistema.Negocio.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.negocio\\articulosn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B613BA5-7782-4117-BD6A-8D34BD7EFA81}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\articulosn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4B2D1-8335-4E72-BEE6-6583450FCE9F}|Sistema.Entidades\\Sistema.Entidades.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF4B2D1-8335-4E72-BEE6-6583450FCE9F}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmvista_clienteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvista_clienteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Sistema.Presentacion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\reportes\\frmreportearticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\reportes\\frmreportearticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\reportes\\dssistema.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\reportes\\dssistema.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\reportes\\frmreportearticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\reportes\\frmreportearticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.presentacion\\reportes\\frmreporteingresodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\reportes\\frmreporteingresodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71FDFFF-86D8-4FEC-ACAE-F692BAA62782}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71FDFFF-86D8-4FEC-ACAE-F692BAA62782}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:02:42.839Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulo.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulo.cs",
+              "ViewState": "AQIAAA0CAAAAAAAAAAApwBgCAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:15:13.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloSD.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Datos\\ArticuloSD.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\ArticuloSD.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Datos\\ArticuloSD.cs",
+              "RelativeToolTip": "Sistema.Datos\\ArticuloSD.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwFIBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:41:22.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:28:34.016Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticuloSN.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Negocio\\ArticuloSN.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\ArticuloSN.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Negocio\\ArticuloSN.cs",
+              "RelativeToolTip": "Sistema.Negocio\\ArticuloSN.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwIoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:50:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Entidades\\Articulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Entidades\\Articulo.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Articulo.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:47:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulo.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:13:47.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVenta.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmVenta.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVenta.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAwwJQBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:28:59.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmVista_ClienteVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmVista_ClienteVenta.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVista_ClienteVenta.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmVista_ClienteVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVista_ClienteVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:02:47.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmIngreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmIngreso.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmIngreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:08:45.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmIngreso.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmIngreso.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmIngreso.cs",
+              "ViewState": "AQIAAEoCAAAAAAAAAAAAAKMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:08:46.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAowJMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:28:35.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmReporteArticulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:16:04.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DsSistema.xsd",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\DsSistema.xsd",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Reportes\\DsSistema.xsd",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\DsSistema.xsd",
+              "RelativeToolTip": "Sistema.Presentacion\\Reportes\\DsSistema.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-04T23:18:32.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmReporteArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Reportes\\FrmReporteArticulos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:16:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sistema.Presentacion",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "RelativeToolTip": "Sistema.Presentacion\\Sistema.Presentacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T00:22:23.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmReporteIngresoDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\FrmReporteIngresoDetalle.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Reportes\\FrmReporteIngresoDetalle.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Presentacion\\Reportes\\FrmReporteIngresoDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\Reportes\\FrmReporteIngresoDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:22:56.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\Programa Santi\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:52:02.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
