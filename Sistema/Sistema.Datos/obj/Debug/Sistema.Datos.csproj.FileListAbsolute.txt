@@ -1,0 +1,36 @@
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

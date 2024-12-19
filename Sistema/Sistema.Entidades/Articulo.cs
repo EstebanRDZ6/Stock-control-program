@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sistema.Entidades
+{
+    public class Articulo
+    {
+        public int IdArticulo { get; set; }
+
+        public int IdCategoria {  get; set; }
+
+        public string Serie { get; set; }
+
+        public string Codigo { get; set; }
+
+        public string Nombre { get; set; } 
+        
+        public string Marca { get; set; }
+
+        public string Tipo { get; set; }
+
+        public string Grosor { get; set; }
+
+        public string Ancho { get; set; }
+
+        public string Color { get; set; }
+
+        public string Material  { get; set; }
+
+        public decimal Peso { get; set; }
+
+        public decimal Precio_venta_menor_kilo { get; set; }
+
+        public decimal Precio_venta_mayor_rollo { get; set; }
+
+        public decimal PrecioVenta { get; set; }
+
+        public int Stock {  get; set; }
+
+        public string Descripcion {  get; set; }
+
+        public string Imagen {  get; set; }
+
+        public bool Estado { get; set; }
+
+    }
+}

@@ -1,0 +1,18 @@
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

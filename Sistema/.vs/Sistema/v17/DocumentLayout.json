@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71FDFFF-86D8-4FEC-ACAE-F692BAA62782}|Sistema.Datos\\Sistema.Datos.csproj|c:\\users\\tutor\\onedrive\\desktop\\j\u0026e codex\\sistema\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71FDFFF-86D8-4FEC-ACAE-F692BAA62782}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B613BA5-7782-4117-BD6A-8D34BD7EFA81}|Sistema.Negocio\\Sistema.Negocio.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\sistema.negocio\\articulosn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B613BA5-7782-4117-BD6A-8D34BD7EFA81}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\articulosn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFABA774-98BD-4F4C-BA84-89B828C9588A}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloSN.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Negocio\\ArticuloSN.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\ArticuloSN.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Negocio\\ArticuloSN.cs",
+              "RelativeToolTip": "Sistema.Negocio\\ArticuloSN.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwIEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:12:42.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulo.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAM8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:09:56.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAUwAsBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:51:20.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulo.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:59:01.75Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:51:17.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\J\u0026E CODEX\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:42:05.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

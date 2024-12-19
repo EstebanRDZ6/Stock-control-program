@@ -1,0 +1,44 @@
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\obj\Debug\Sistema..0C9D8B9E.Up2Date
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema..0C9D8B9E.Up2Date
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema..0C9D8B9E.Up2Date
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\obj\Debug\Sistema..0C9D8B9E.Up2Date
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb

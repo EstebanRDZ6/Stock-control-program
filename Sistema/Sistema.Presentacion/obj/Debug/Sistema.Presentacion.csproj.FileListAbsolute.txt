@@ -1,0 +1,417 @@
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Jesus\Desktop\Software C#\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\libSkiaSharp.dylib
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.pdb
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ClienteVenta.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteArticulos.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteComprobanteVenta.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_VentaFechas.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe.config
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_CompraFechas.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ClosedXML.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Irony.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\XLParser.dll
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ClosedXML.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteIngreso.resources
+C:\Users\Jesus\Desktop\DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteIngresoDetalle.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\libSkiaSharp.dylib
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ClosedXML.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Irony.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\XLParser.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ClosedXML.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe.config
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_CompraFechas.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_VentaFechas.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ClienteVenta.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteArticulos.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteComprobanteVenta.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteIngreso.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteIngresoDetalle.resources
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Jesus\Desktop\ \DEVELOPER2024\Developer Of Software\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\libSkiaSharp.dylib
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ClosedXML.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Irony.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\XLParser.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ClosedXML.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\SkiaSharp.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe.config
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_CompraFechas.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_VentaFechas.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ClienteVenta.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteArticulos.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteComprobanteVenta.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteIngreso.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteIngresoDetalle.resources
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Tutor\OneDrive\Desktop\J&E CODEX\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
