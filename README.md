@@ -4,7 +4,7 @@ Sus datos se almacenan en una Base de datos SQL Server local. La aplicación se 
 
 ## Autor
 **Esteban Rodriguez y Jesus**
-*Linkedin de Esteban: https://www.linkedin.com/in/rdz6/
+* [LinkedIn] (https://www.linkedin.com/in/rdz6/)
 
 ## Ver Ejemplo en vivo
 -
